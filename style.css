@@ -1,15 +1,14 @@
-*{
-overflow: hidden;    
-}
+  * {
+            overflow: hidden;
+            margin: 0;
+        }
 
-body {
-    height: 90vh;
-  }
-  
-  canvas{position:absolute;z-index:0;width:90vw;}
+        body {
+            height: 100vh;
+        }
 
-
-    
-  
-  
-  
+        canvas {
+            position: absolute;
+            z-index: 0;
+            width: 100vw;
+        }
