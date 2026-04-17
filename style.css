@@ -6,7 +6,7 @@ body {
     height: 100vh;
   }
   
-  canvas{position:absolute;z-index:0;width:100%;}
+  canvas{position:absolute;z-index:0;width:100vw;}
 
 
     
