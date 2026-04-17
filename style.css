@@ -3,10 +3,10 @@ overflow: hidden;
 }
 
 body {
-    height: 100vh;
+    height: 90vh;
   }
   
-  canvas{position:absolute;z-index:0;width:100vw;}
+  canvas{position:absolute;z-index:0;width:90vw;}
 
 
     
